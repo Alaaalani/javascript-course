@@ -7,7 +7,7 @@
 
 var book = "video",
     video ="book";
-
+ 
 // copy First Variable Into Stash
 var stash = book
 

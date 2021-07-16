@@ -9,10 +9,9 @@
  "Iam From Elzero Web School \n " +
  "I Love All My Follerers";
 
- let newWay = "Hello Its Me Osama"
- Iam ${thekind}
+ let newWay = `Hello Its Me Osama" Iam ${thekind}
  Iam From Elzero Web School
- I Love All My Followers ;
+ I Love All My Followers` ;
 
  console.log(oldways);
  console.log(newWay)

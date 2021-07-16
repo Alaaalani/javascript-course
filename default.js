@@ -8,7 +8,7 @@ function showMyInfo(username, role, theme) {
     role = role === undefined ? 'Default Role ' : role;
     theme =theme === undefined ? 'Default Theme ' : theme;
 
-    return 'Hello ' ${username}; Your Role Is : $ (role), Website Theme Is: $(theme)
+    return `Hello  ${username}; Your Role Is : ${role}, Website Theme Is: ${theme}`
 
 }   
 

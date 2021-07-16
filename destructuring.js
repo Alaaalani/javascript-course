@@ -6,7 +6,7 @@
 */
 
 const user ={
-    name: 'Osama,
+    name: 'Osama',
     gender: 'Male',
     age: 36,
     city: 'cairo',
@@ -15,4 +15,4 @@ const user ={
 };
 
 const {name, gender, age, theme = 'Default'} = user;
-console. log('My Name Is: ${name}, Iam $(age), My Theme color Is: ${theme};
+console. log(`My Name Is: ${name}, Iam $(age), My Theme color Is: ${theme}`);

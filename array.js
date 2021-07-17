@@ -19,4 +19,4 @@ video = stash;
 
 [book, video]
 
-console.log('Book Is ${book} and Video Is ${video}');
+console.log(`Book Is ${book} and Video Is ${video}`);
